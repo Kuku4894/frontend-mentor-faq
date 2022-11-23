@@ -1,0 +1,22 @@
+:root{
+    /* text variables */
+    --color-primary-blue: hsl(238, 29%, 16%);
+    --color-primary-red: hsl(14, 88%, 65%);
+    
+    --color-neutral-grayish-blue: hsl(237, 12%, 33%);
+    --color-neutral-blue: hsl(240, 6%, 50%);
+
+    --font-family-primary: 'Kumbh Sans', sans-serif;
+
+    /* background variables */
+    --bg-color-violet: hsl(273, 75%, 66%);
+    --bg-color-blue: hsl(240, 73%, 65%);
+
+    --divider-color-primary: hsl(240, 5%, 91%);
+}
+
+*,*::after, *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
